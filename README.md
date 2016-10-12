@@ -1,0 +1,2 @@
+# wordDictionary
+This program implements a simple word correction program as    required in the Project 4 PDF file and follows all directions and instrutions.    It loads a dictionary of accepted words into an array. The array then gets     sorted. The user is asked to input one word at a time with $ indicating that    no more input is to be taken. For each word entered, a binary search is used    to find a match. A linear search is performed to check for an anagram and if    one is found, the valid word will be suggested.
